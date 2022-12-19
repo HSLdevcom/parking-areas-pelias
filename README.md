@@ -10,10 +10,10 @@ npm install
 
 ## Usage
 
-Run the data import using the given OTP data source url, target and source. Valid targets are `bikePark` and `carPark`.
+Run the data import using the given OTP data source url, target and source.
 
 ### Format:
-`node import.js [url] [target] [source]`
+`node import.js [url] vehicleParking [source]`
 
 ### Example: 
-`node import.js https://dev-api.digitransit.fi/routing/v1/routers/hsl/index/graphql bikePark liipi`
+`node import.js https://dev-api.digitransit.fi/routing/v2/routers/hsl/index/graphql vehicleParking liipi`
