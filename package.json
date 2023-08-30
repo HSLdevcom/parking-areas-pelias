@@ -19,7 +19,7 @@
   "dependencies": {
     "pelias-dbclient": "github:hsldevcom/dbclient",
     "JSONStream": "^1.3.5",
-    "axios": "^0.27.2",
+    "axios": "^1.5.0",
     "pelias-logger": "^1.6.0",
     "pelias-model": "7.1.0",
     "pelias-wof-admin-lookup": "github:hsldevcom/wof-admin-lookup",
