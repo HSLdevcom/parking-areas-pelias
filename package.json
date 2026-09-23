@@ -24,8 +24,5 @@
     "pelias-model": "7.1.0",
     "pelias-wof-admin-lookup": "github:hsldevcom/wof-admin-lookup",
     "through2": "^4.0.2"
-  },
-  "overrides": {
-    "better-sqlite3": "^13.0.3"
   }
 }
